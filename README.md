@@ -1,3 +1,2 @@
 # pizzamapsapp
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/claymoneyprojects/pizzamapsapp)
+This is a new app that helps people find pizza within 10 miles of them @ https://pizzamaps.app
